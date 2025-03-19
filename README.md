@@ -6,6 +6,8 @@ Thanks for visiting my Github!
 
 Computers are my playground. Building, hacking, and learning what happens under the hood (through the Kernel and down to the hardware) is what I live for. This is important for me as I take nothing for granted. Back in College, I once enrolled in a Real Analysis course so that I could learn how Calculus was dervied 🤯! This curiosity has been a defining characteristic in my career and has created many opportunities for me to explore different aspects of the software development sector.
 
+[art.png](./art.png)
+
 ### Design, Media --> Craftsmanship
 Making great art and media requires good craftsmanship and a good sense of design. For this reason, I leave you with some artifacts of my creative work (which you can find on my [Instragram](https://www.instagram.com/miklumba/).
 
