@@ -7,8 +7,9 @@ azulejo-* repos are distributed under the MIT license. Here you will find variou
 I'm on a relentless quest to learn.
 
 ## Art & Design
-If you're looking for my creative projects then follow this link to --> [<img src="./art.png" alt="art.png" height="50">](https://www.instagram.com/miklumba/).
+If you're looking for my creative projects then follow this link to [Instagram](https://www.instagram.com/miklumba/).
 
+<img src="./art.png" alt="art.png" height="100">
 <!-- div display="flex">
   <img src="./art.png" alt="art.png" height="150">
   <img src="https://github.com/miclomba/azulejo-gl-3dmodeler/blob/master/GL3DModeler.png" alt="GL3DModeler.png" height="150">
