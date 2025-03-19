@@ -6,8 +6,8 @@ azulejo-* repos are distributed under the MIT license. Here you will find variou
 
 I'm on a relentless quest to learn.
 
-## Design <img src="./art.png" alt="art.png" height="50">
-If you're looking for my creative portfolio then follow this link to --> [Instragram](https://www.instagram.com/miklumba/).
+## Art & Design
+If you're looking for my creative projects then follow this link to --> [<img src="./art.png" alt="art.png" height="30">](https://www.instagram.com/miklumba/).
 
 <!-- div display="flex">
   <img src="./art.png" alt="art.png" height="150">
