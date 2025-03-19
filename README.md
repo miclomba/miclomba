@@ -10,6 +10,7 @@ I'm on a relentless quest to learn.
 I try to bring a good sense of design and craftsmanship these repos. With that in mind, you can find some of my creative work at my [Instragram](https://www.instagram.com/miklumba/).
 
 <img src="./art.png" alt="art.png" width="200">
+<img src="./art.png" alt="art.png" width="200">
 
 
 
