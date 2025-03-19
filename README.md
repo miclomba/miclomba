@@ -10,8 +10,8 @@ I'm on a relentless quest to learn.
 I try to bring a good sense of design and craftsmanship these repos. With that in mind, you can find some of my creative work at my [Instragram](https://www.instagram.com/miklumba/).
 
 <div display="flex">
-  <img src="./art.png" alt="art.png" width="200">
-  <img src="https://github.com/miclomba/azulejo-gl-3dmodeler/blob/master/GL3DModeler.png" alt="GL3DModeler.png" width="200">
+  <img src="./art.png" alt="art.png" height="200">
+  <img src="https://github.com/miclomba/azulejo-gl-3dmodeler/blob/master/GL3DModeler.png" alt="GL3DModeler.png" height="200">
 </div>
 
 
