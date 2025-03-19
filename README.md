@@ -1,8 +1,12 @@
 ## Welcome 👋
 
-azulejo-* projects are distributed under the MIT license.
+azulejo-* projects are distributed under the MIT license. Here you will find varied projects ranging from MIPS CPU, graphics pipeline, file system, video games, kernel extensions (coming soon), app libraries, and more to come.
 
-## Design
+## About me
+
+I'm on a relentless quest to learn 
+
+### Design
 I try to bring a good sense of design and craftsmanship to everything I do. With that said, you can find some of my creative work at my [Instragram](https://www.instagram.com/miklumba/).
 
 <img src="./art.png" alt="art.png" width="200">
