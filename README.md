@@ -5,7 +5,6 @@ Computers are my playground. Building, hacking, and learning what happens under 
 ### Design
 Making great art and media requires good craftsmanship and a good sense of design. For more info visit: [Instragram](https://www.instagram.com/miklumba/).
 
-![art](./art.png)
 <img src="./art.png" alt="art.png" width="150">
 
 
