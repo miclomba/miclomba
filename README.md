@@ -6,15 +6,15 @@ azulejo-* repos are distributed under the MIT license. Here you will find variou
 
 I'm on a relentless quest to learn.
 
-### Design
-I try to bring a good sense of design and craftsmanship these repos. With that in mind, you can find some of my creative work at my [Instragram](https://www.instagram.com/miklumba/).
+## Design
+If you're looking for my creative portfolio then follow this link to --> [Instragram](https://www.instagram.com/miklumba/).
 
-<div display="flex">
+<!-- div display="flex">
   <img src="./art.png" alt="art.png" height="150">
   <img src="https://github.com/miclomba/azulejo-gl-3dmodeler/blob/master/GL3DModeler.png" alt="GL3DModeler.png" height="150">
   <img src="https://github.com/miclomba/azulejo-gl-asteroids/blob/master/GLAsteroids.png" alt="GLAsteroids.png" height="150">
   <img src="https://github.com/miclomba/azulejo-mini-mips-8bit-processor/blob/master/screenshots/minimips.png" alt="minimips.png" height="150">
-</div>
+</div -->
 
 
 
