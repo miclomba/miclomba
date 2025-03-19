@@ -12,6 +12,7 @@ I try to bring a good sense of design and craftsmanship these repos. With that i
 <div display="flex">
   <img src="./art.png" alt="art.png" height="200">
   <img src="https://github.com/miclomba/azulejo-gl-3dmodeler/blob/master/GL3DModeler.png" alt="GL3DModeler.png" height="200">
+  <img src="https://github.com/miclomba/azulejo-gl-asteroids/blob/master/GLAsteroids.png" alt="GLAsteroids.png" height="200">
 </div>
 
 
