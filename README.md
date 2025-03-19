@@ -9,8 +9,10 @@ I'm on a relentless quest to learn.
 ### Design
 I try to bring a good sense of design and craftsmanship these repos. With that in mind, you can find some of my creative work at my [Instragram](https://www.instagram.com/miklumba/).
 
-<img src="./art.png" alt="art.png" width="200">
-<img src="./art.png" alt="art.png" width="200">
+<div display="flex">
+  <img src="./art.png" alt="art.png" width="200">
+  <img src="./art.png" alt="art.png" width="200">
+</div>
 
 
 
