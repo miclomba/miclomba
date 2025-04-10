@@ -9,9 +9,13 @@ I'm on a relentless quest to learn.
 ## Art & Design
 If you're looking for my creative projects then follow this link to [Instagram](https://www.instagram.com/miklumba/).
 
+<a href="https://www.instagram.com/miklumba/">
 <img src="./art.png" alt="art.png" height="100">
+</a>
 
 ## Azulejo Technologies
-If you're looking for Azulejo Technologies github page then go to <a href="https://github.com/Azulejo-io">azulejo-io</a>
+If you're looking for Azulejo Technologies github page then go to <a href="https://github.com/Azulejo-io">azulejo-io</a>.
 
+<a href="https://azulejo.io">
 <img src="./bidm.gif" alt="bidm.gif">
+</a>
